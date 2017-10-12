@@ -35,3 +35,8 @@ header{
 .annanKlass{
 	background-color:blue;
 }
+
+#image {
+	height: 50%;
+	widht: 50%;
+}
