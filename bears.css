@@ -1,8 +1,37 @@
-#body{
-	background-color:red;
-	color: pink;
+body{
+	background-color:yellow;
+	color: purple;
+}
+
+article{
+	font-size:110%;
+	background-color:blue;
+}
+
+#article2{
+	background-color:green;
 }
 
 #article1{
-	color: yellow;
+	background-color:gray;
+	color: red;
+}
+
+.standard{
+	height: 100px;
+	width: 200px;
+}
+
+a{
+	color:red;
+	text-decoration: none;
+}
+
+header{
+	height: 200px;
+	width: 200px;
+}
+
+.annanKlass{
+	background-color:blue;
 }
