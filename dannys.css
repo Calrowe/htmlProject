@@ -1,10 +1,38 @@
-#body {
+body {
+	:middle;
 	background-color:red;
 	color:black;
 }
 
+a {
+	text-decoration:none;
+	
+}
+
+article {
+	background-color:yellow;
+}
 
 #article1 {
 	color: blue;
 	background-color: pink;
+}
+
+#article2 {
+	
+	
+}
+
+.standard {
+	background-color: white;
+
+}
+
+header {
+	height:200px;
+	width: 88%;
+}
+
+footer {
+	
 }
