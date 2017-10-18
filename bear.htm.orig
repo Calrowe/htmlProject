@@ -1,31 +1,66 @@
 <!doctype html>
 
 <html>
+<<<<<<< HEAD
+	<header><title>Björnes ide</title>	</header>
+	
+
+	<body>
+		<nav>
+		<h1><strong>Header</strong></h1>
+	
+			<ul>
+			<li>Meny Option 1</li>
+			<li>Menu Option 2</li>			
+					
+			</ul>
+		</nav>
+		<main>
+			<article>
+				<h3>Article #1</h3>
+				<p>This is the first article</p>			
+			</article>
+			
+			<article>
+				<h3>Article #2</h3>
+				<p>This is the second article</p>			
+			</article>
+			
+			<article>
+				<h3>Aside</h3>			
+			</article>
+			
+		</main>
+			
+			<footer></footer>
+	
+	</body>
+	
+	
+
+
+
+
+=======
 	<head>
 	<title>Björnes ide</title>
 	<link rel = "stylesheet" type = "text/css" href = "bears.css" />
 	</head>
 	
 	<body>
-	
+		<header class = "standard">
+		
 		<section>
-		<header class = "standard">		
 			<h1>Header</h1>
 			<nav>		
 				<ul>
 				<li><a href="daddy.htm">Farsan</a></li>
 				<li><a href="option2.htm">Menu option 2</a></li>
 				</ul>
-<<<<<<< HEAD
 			</nav>
-		</section>		
-		</header>
-=======
-			</nav>		
-		</header>
 		</section>
->>>>>>> 8571be77af4454981e2fb45d81d7ae893dcb28ee
 		
+		</header>		
 		<section>
 			<main class = "standard">
 				<article id = "article1">
@@ -51,4 +86,5 @@
 		</section>
 		</body>
 		
+>>>>>>> 351077043a616a2571b1f2bb184ca46ce77ac246
 </html>
